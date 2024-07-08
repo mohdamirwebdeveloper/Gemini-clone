@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gemini/static/css/main.0de7b936.css",
+    "main.js": "/gemini/static/js/main.202cfc99.js",
+    "static/js/453.a95e9900.chunk.js": "/gemini/static/js/453.a95e9900.chunk.js",
+    "static/media/android-chrome-192x192.png": "/gemini/static/media/android-chrome-192x192.6ab5ef9a8f4153df0813.png",
+    "static/media/helvetica-compressed-5871d14b6903a.otf": "/gemini/static/media/helvetica-compressed-5871d14b6903a.456b20c6e77638179fc6.otf",
+    "static/media/gallery_icon.png": "/gemini/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/gemini/index.html",
+    "main.0de7b936.css.map": "/gemini/static/css/main.0de7b936.css.map",
+    "main.202cfc99.js.map": "/gemini/static/js/main.202cfc99.js.map",
+    "453.a95e9900.chunk.js.map": "/gemini/static/js/453.a95e9900.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de7b936.css",
+    "static/js/main.202cfc99.js"
+  ]
+}
