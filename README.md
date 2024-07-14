@@ -1,4 +1,5 @@
 # Gemini Ai Clone using React.js
+![Development](https://img.shields.io/badge/status-in_development-yellow)
 
 ![Gemini Ai Screenshot](demo.png)
 
