@@ -6,7 +6,7 @@
 Mobile view
 
 ![Gemini Ai Screenshot](mobiledemo.jpeg)
-<img src="mobiledemo.jpeg" alt="Gemini Ai Screenshot" width="300" />
+<img src="mobiledemo.jpeg" alt="Gemini Ai Screenshot" width="300" height="300" />
 
 This project is a clone of Gemini, formerly known as Bard. It consists of a responsive Gemini frontend and an API to make it functional.
 
